@@ -33,7 +33,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
   color: var(--screen-text);
   transition: all 0.3s ease-in-out;
 }
